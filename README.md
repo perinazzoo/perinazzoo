@@ -5,4 +5,3 @@
 <blockquote>Below some information about me:<blockquote/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perinazzoo&langs_count=5&layout=compact)
-![perinazzoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=perinazzoo)
