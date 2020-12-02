@@ -1,4 +1,4 @@
-### Hi there <img src="./wave.gif" width="30px">! My name is Gabriel and I'm a Web Developer.
+### Hi there <img src="./wave.gif" width="30px"> ! My name is Gabriel and I'm a Web Developer.
 
 - 🎨 In my free time I like to make illustrations
 
