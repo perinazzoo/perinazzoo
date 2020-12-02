@@ -4,4 +4,4 @@
 
 <blockquote>Below some information about me:<blockquote/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perinazzoo&langs_count=5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perinazzoo&langs_count=5&hide=objective-c)
