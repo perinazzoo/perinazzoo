@@ -1,4 +1,4 @@
-### Hi there! My name is Gabriel and I'm a Web Developer.
+### Hi there! My name is Gabriel and I'm a Software Developer.
 
 - 🎨 In my free time I like to make illustrations
 
