@@ -2,4 +2,4 @@
 
 <blockquote>Below some information about the languages that I use most:</blockquote>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perinazzoo&langs_count=5&hide=objective-c)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perinazzoo&langs_count=5&hide=objective-c)
