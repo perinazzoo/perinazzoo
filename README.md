@@ -1,7 +1,3 @@
-<script>
-  alert('oi')
-</script>
-
 ### About
 
 ```diff
